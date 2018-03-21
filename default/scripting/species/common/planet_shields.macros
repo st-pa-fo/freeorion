@@ -38,7 +38,8 @@ PROTECTION_FOCUS_SHIELDS
             ]
             stackinggroup = "FOCUS_PROTECTION_SHIELDS_STACK"
             priority = [[VERY_LATE_PRIORITY]]
-            effects = SetMaxShield value = Value * 2 accountinglabel = "FOCUS_PROTECTION_LABEL"
+            effects = SetMaxShield value = Value * 2
+            accountinglabel = "FOCUS_PROTECTION_LABEL"
 '''
 
 #include "/scripting/common/priorities.macros"

@@ -8038,6 +8038,9 @@ This planet has a natural satellite, the orbital period of which is in 1:1 reson
 COMPUTRONIUM_SPECIAL
 Computronium Moon
 
+COMPUTRONIUM_ACCOUNTING_LABEL
+%1% Special <i>Computronium Moon</i>
+
 COMPUTRONIUM_SPECIAL_DESC
 '''When a planet with a Computronium Moon is focused on [[metertype METER_RESEARCH]], all research focused planets in the empire gain 0.2 [[metertype METER_RESEARCH]] per Population.
 

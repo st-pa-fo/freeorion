@@ -30,7 +30,7 @@ Special
             stackinggroup = "COMPUTRONIUM_STACK"
             priority = [[LATE_PRIORITY]]
             effects = SetTargetResearch value = Value + Target.Population * 1 * [[RESEARCH_PER_POP]]
-
+            accountinglabel = "COMPUTRONIUM_ACCOUNTING_LABEL"
         [[CHANCE_OF_GUARD_1]]
 
     ]
